@@ -6,8 +6,8 @@ namespace BasicProgramDemo
     { 
         static void Main(string[] args)
         {
-            PowerOfTwo power = new PowerOfTwo();
-            power.ReadInput();
+            LeapYear leap = new LeapYear();
+            leap.ReadInput();
         }
     }
 }
