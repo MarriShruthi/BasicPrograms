@@ -10,8 +10,7 @@ namespace BasicProgramDemo
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            MultiDimentional.ReadMultiArray();
-            Console.Read();
+            Distance.Length();
         }
 
     }
