@@ -10,7 +10,9 @@ namespace BasicProgramDemo
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Quadratic.ReadQuadratic();
+            Console.WriteLine("Enter Value for n: ");
+            int n = Convert.ToInt32(Console.ReadLine());
+            PrimeFactors.primeFactors(n);
         }
     }
 }
