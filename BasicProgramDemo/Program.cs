@@ -10,7 +10,8 @@ namespace BasicProgramDemo
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Distance.Length();
+            SumOfTriplet.FindTriplet();
+            SumOfTriplet.FindTripletswithHashSet();
         }
 
     }
