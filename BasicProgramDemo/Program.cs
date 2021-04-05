@@ -10,9 +10,9 @@ namespace BasicProgramDemo
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            SumOfTriplet.FindTriplet();
-            SumOfTriplet.FindTripletswithHashSet();
-        }
+            VendingMachine.ReadAmountToFindchange();
 
+            // Gambler.ReadStakeAmountAndGoal();
+        }
     }
 }
