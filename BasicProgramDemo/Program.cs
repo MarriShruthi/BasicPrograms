@@ -10,7 +10,7 @@ namespace BasicProgramDemo
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Windchill.ReadTemp();
+            Quadratic.ReadQuadratic();
         }
     }
 }
