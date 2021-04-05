@@ -10,10 +10,7 @@ namespace BasicProgramDemo
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            VendingMachine.ReadAmountToFindchange();
-
-            // Gambler.ReadStakeAmountAndGoal();
-
+            Windchill.ReadTemp();
         }
     }
 }
